@@ -1,7 +1,7 @@
 #ifndef GSAT_H_INCLUDED
 #define GSAT_H_INCLUDED
 
-#define varNum 70
+#define varNum 200
 int GSAT(CNFPtr &F, int formulaNum, //int varNum,
         int maxTries, int maxSteps);
 void generateCNFArray(CNFPtr &F, int formulaNum, int CNFA[][varNum]);

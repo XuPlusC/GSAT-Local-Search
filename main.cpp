@@ -9,7 +9,7 @@ int main()
     printf("formulaNum :%d\n", formulaNum);
     int i;
     float sum = 0;
-	sum += GSAT(F, formulaNum, 100, 350);
+	sum += GSAT(F, formulaNum, 1000, 2000);
     printf("%f\n", sum);
 
     return 0;
