@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1535705362 source:d:\workspace\c++\gsatefficient\cnf.cpp
+	<stdio.h>
+	<stdlib.h>
+	"CNF.h"
+
+1534215636 d:\workspace\c++\gsatefficient\cnf.h
+
+1535706685 source:d:\workspace\c++\gsatefficient\gsat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"CNF.h"
+	"GSAT.h"
+
+1535707812 d:\workspace\c++\gsatefficient\gsat.h
+
+1535706822 source:d:\workspace\c++\gsatefficient\main.cpp
+	<stdio.h>
+	"CNF.h"
+	"GSAT.h"
+
