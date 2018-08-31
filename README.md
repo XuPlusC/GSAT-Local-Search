@@ -1,7 +1,7 @@
 # GSAT-Local-Search
 The algorithm now can approximately achieve the level of the paper < A New Method for Solving Hard Satisfiability Problems> 
 (Selman et al. 1992).
-Compared to the paper, the algorithm now can solve problems in the same size with a similar number of tries, with a much 
+Compared to the paper, the algorithm now can solve problems in the same size with a similar number of tries, and a much 
 smaller time consumption (may due to the huge difference of CPU performance, I am using a i7-8750H CPU).
 The results are listed here (using the data set provided in the repo):
 
